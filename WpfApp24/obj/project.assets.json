@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexx\\source\\repos\\WpfApp24\\WpfApp24\\WpfApp24.csproj",
+      "projectUniqueName": "C:\\Users\\alexx\\source\\repos\\MyCoolApp\\WpfApp24\\WpfApp24.csproj",
       "projectName": "WpfApp24",
-      "projectPath": "C:\\Users\\alexx\\source\\repos\\WpfApp24\\WpfApp24\\WpfApp24.csproj",
+      "projectPath": "C:\\Users\\alexx\\source\\repos\\MyCoolApp\\WpfApp24\\WpfApp24.csproj",
       "packagesPath": "C:\\Users\\alexx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexx\\source\\repos\\WpfApp24\\WpfApp24\\obj\\",
+      "outputPath": "C:\\Users\\alexx\\source\\repos\\MyCoolApp\\WpfApp24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

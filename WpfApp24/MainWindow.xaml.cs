@@ -19,6 +19,10 @@ namespace WpfApp24
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Привет");
+            int x = 10;
+            int y = 10;
+
         }
     }
 }
